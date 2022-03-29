@@ -1,0 +1,29 @@
+######################################
+#  Gravity constants
+######################################
+
+SCREEN_WIDTH = 1200
+SCREEN_HEIGHT = 980
+
+SCREEN_W_CENTRE = int(SCREEN_WIDTH / 2)
+SCREEN_H_CENTRE = int(SCREEN_HEIGHT / 2)
+
+dotSize = 1
+
+GREEN = (0, 255, 0)
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+BLUE = (0, 0, 255)
+RED = (255, 0, 0)
+DARK_GREY = (64, 64, 64)
+
+BLOCK_START = (400, 150)
+BLOCK_SPEED = (0, 5)
+
+PLAYER_START = (50, SCREEN_H_CENTRE)
+THRUST_SPEED = 0.3
+
+MAIN_MENU_POS = ((SCREEN_W_CENTRE - 150), (SCREEN_H_CENTRE - 150))
+MAIN_MENU_SIZE = (300, 300)
+NEW_GAME_BUTTON = (SCREEN_W_CENTRE, 360)
+QUIT_GAME_BUTTON = (SCREEN_W_CENTRE, 590)
