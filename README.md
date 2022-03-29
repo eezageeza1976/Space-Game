@@ -9,9 +9,9 @@ Very basic Menu with new game and Quit functions. When mouse cursor is over the 
 
 First go at using sprites and basic explosion graphics.
 
-Still loads to do:
-Proper menu
-Quitting properly from the game back to menu
-Work out a better way of coding the menu run event
-Making other levels
-WHat to do when all the stars have been collected (Currently the level just continues without finishing after all stars collected)
+Still loads to do: 
+Proper menu. 
+Quitting properly from the game back to menu. 
+Work out a better way of coding the menu run event. 
+Making other levels. 
+WHat to do when all the stars have been collected (Currently the level just continues without finishing after all stars collected).
